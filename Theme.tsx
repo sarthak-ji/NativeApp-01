@@ -27,7 +27,7 @@ export default Theme;
 
 
 
-// // Toggle (Hard Coded)
+// // Toggle (Hard Coded!)
 // import React from 'react';
 // import { Text, StyleSheet } from 'react-native';
 // import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
